@@ -1,0 +1,49 @@
+body {
+    
+}
+
+
+#top {
+    background-color: rgb(72, 72, 72);
+    height: 200px;
+    width: 100vw;
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    z-index: 3;
+}
+
+
+
+#left {
+    background-color: grey;
+    height: 100vw;
+    width: 200px;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    z-index: 2;
+}
+
+
+
+#right {
+    background-color: grey;
+    height: 100vw;
+    width: 200px;
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    z-index: 2;
+}
+
+
+#bottom {
+    background-color: black;
+    height: 200px;
+    width: 100vw;
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    z-index: 1;
+}
